@@ -1,0 +1,12 @@
+Opdracht eenvoudige variant:
+
+Teken in tkinter een rechthoek.
+Laat het programma een seconde wachten.
+Teken een tweede rechthoek met tkinter.
+
+Opdracht ingewikkelde variant:
+
+Animeer de spritesheet 'Mushroom-Run.png' in tkinter. De afmeting is 80 bij
+64 pixels.
+
+De volgende stap is om te toggelen tussen 'Mushroom-Run.png' en 'Mushroom-Idle.png'.
